@@ -1,0 +1,5 @@
+{
+  "_comment": "Column names for sheets that have no header row. Keys are filename patterns (case-insensitive, * wildcards). Sheets with a header row need no entry.",
+  "*DTU-Network*": ["Name", "Email", "Phone", "Batch", "Company", "Designation", "About",
+                    "Branch", "LinkedIn", "Can Help With", "Sector", "Submitted On", "Alt Email"]
+}

@@ -1,0 +1,2 @@
+openpyxl>=3.0     # reads .xlsx / .xlsm
+rapidfuzz>=3.0    # optional: faster, smarter typo matching (falls back to difflib)

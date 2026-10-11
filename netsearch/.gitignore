@@ -1,0 +1,9 @@
+# Your data and the local index stay on your PC.
+*.db
+*.db-journal
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+data/
+__pycache__/
